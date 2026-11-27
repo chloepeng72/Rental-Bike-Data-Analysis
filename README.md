@@ -37,10 +37,10 @@ Assessed the correlation between rental bike availability and the number of bike
 ## SCD Type 2 Example
 
 Before delta load:
-![Before](images/scd2_before.png)
+![Before](scd2_before.png)
 
 After delta load:
-![After](images/scd2_after.png)
+![After](scd2_after.png)
 
 ## Tools
 
